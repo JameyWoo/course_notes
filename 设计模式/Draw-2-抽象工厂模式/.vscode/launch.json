@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FactoryProducer",
+            "request": "launch",
+            "mainClass": "FactoryProducer",
+            "projectName": "Draw-2-抽象工厂模式_9ca258a1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Draw-2-抽象工厂模式_9ca258a1"
+        }
+    ]
+}
